@@ -1,0 +1,511 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.3.8)  25 JUL 2017 12:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
+(./ncfthesis.cls
+Document Class: ncfthesis 2017/03/22
+\vithesis=\count79
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)) (./lgrind.sty
+Package: lgrind 1997/01/30 v3.4 LGrind environment and supporting stuff
+\lc@unt=\count89
+\ln@xt=\count90
+\LGnuminterval=\count91
+\LGindent=\skip43
+\LGsloppy=\skip44
+\procbox=\box26
+\ls@far=\box27
+\tb@x=\box28
+\TBw@d=\dimen103
+\@ts=\dimen104
+) (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2016/03/03 v3.3 programmable bibliographies (PK/JW/AB)
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex_.sty
+Package: biblatex_ 2016/03/03 v3.3 programmable bibliographies (biber) (PK/JW/A
+B)
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count92
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count93
+
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count94
+\c@listtotal=\count95
+\c@listcount=\count96
+\c@liststart=\count97
+\c@liststop=\count98
+\c@citecount=\count99
+\c@citetotal=\count100
+\c@multicitecount=\count101
+\c@multicitetotal=\count102
+\c@instcount=\count103
+\c@maxnames=\count104
+\c@minnames=\count105
+\c@maxitems=\count106
+\c@minitems=\count107
+\c@citecounter=\count108
+\c@savedcitecounter=\count109
+\c@uniquelist=\count110
+\c@uniquename=\count111
+\c@refsection=\count112
+\c@refsegment=\count113
+\c@maxextratitle=\count114
+\c@maxextratitleyear=\count115
+\c@maxextrayear=\count116
+\c@maxextraalpha=\count117
+\c@abbrvpenalty=\count118
+\c@highnamepenalty=\count119
+\c@lownamepenalty=\count120
+\c@maxparens=\count121
+\c@parenlevel=\count122
+\blx@tempcnta=\count123
+\blx@tempcntb=\count124
+\blx@tempcntc=\count125
+\blx@maxsection=\count126
+\blx@maxsegment@0=\count127
+\blx@notetype=\count128
+\blx@parenlevel@text=\count129
+\blx@parenlevel@foot=\count130
+\blx@sectionciteorder@0=\count131
+\labelnumberwidth=\skip45
+\labelalphawidth=\skip46
+\biblabelsep=\skip47
+\bibitemsep=\skip48
+\bibnamesep=\skip49
+\bibinitsep=\skip50
+\bibparsep=\skip51
+\bibhang=\skip52
+\blx@bcfin=\read1
+\blx@bcfout=\write3
+\c@mincomprange=\count132
+\c@maxcomprange=\count133
+\c@mincompwidth=\count134
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count135
+\c@savedafterword=\count136
+\c@annotator=\count137
+\c@savedannotator=\count138
+\c@author=\count139
+\c@savedauthor=\count140
+\c@bookauthor=\count141
+\c@savedbookauthor=\count142
+\c@commentator=\count143
+\c@savedcommentator=\count144
+\c@editor=\count145
+\c@savededitor=\count146
+\c@editora=\count147
+\c@savededitora=\count148
+\c@editorb=\count149
+\c@savededitorb=\count150
+\c@editorc=\count151
+\c@savededitorc=\count152
+\c@foreword=\count153
+\c@savedforeword=\count154
+\c@holder=\count155
+\c@savedholder=\count156
+\c@introduction=\count157
+\c@savedintroduction=\count158
+\c@namea=\count159
+\c@savednamea=\count160
+\c@nameb=\count161
+\c@savednameb=\count162
+\c@namec=\count163
+\c@savednamec=\count164
+\c@translator=\count165
+\c@savedtranslator=\count166
+\c@shortauthor=\count167
+\c@savedshortauthor=\count168
+\c@shorteditor=\count169
+\c@savedshorteditor=\count170
+\c@labelname=\count171
+\c@savedlabelname=\count172
+\c@institution=\count173
+\c@savedinstitution=\count174
+\c@lista=\count175
+\c@savedlista=\count176
+\c@listb=\count177
+\c@savedlistb=\count178
+\c@listc=\count179
+\c@savedlistc=\count180
+\c@listd=\count181
+\c@savedlistd=\count182
+\c@liste=\count183
+\c@savedliste=\count184
+\c@listf=\count185
+\c@savedlistf=\count186
+\c@location=\count187
+\c@savedlocation=\count188
+\c@organization=\count189
+\c@savedorganization=\count190
+\c@origlocation=\count191
+\c@savedoriglocation=\count192
+\c@origpublisher=\count193
+\c@savedorigpublisher=\count194
+\c@publisher=\count195
+\c@savedpublisher=\count196
+\c@language=\count197
+\c@savedlanguage=\count198
+\c@pageref=\count199
+\c@savedpageref=\count266
+\shorthandwidth=\skip53
+\shortjournalwidth=\skip54
+\shortserieswidth=\skip55
+\shorttitlewidth=\skip56
+\shortauthorwidth=\skip57
+\shorteditorwidth=\skip58
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2016/03/03 v3.3 biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex_.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex_.def
+File: biblatex_.def 
+\c@textcitecount=\count267
+\c@textcitetotal=\count268
+\c@textcitemaxnames=\count269
+\c@biburlnumpenalty=\count270
+\c@biburlucpenalty=\count271
+\c@biburllcpenalty=\count272
+\c@smartand=\count273
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count274
+\c@bbx:relatedtotal=\count275
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2016/03/03 v3.3 biblatex citation style (PK/JW/AB)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/cmap/cmap.sty
+Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)<<t1.cmap>>)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
+)
+\@quotelevel=\count276
+\@quotereset=\count277
+ (./main.aux
+(./title.aux) (./acknowledgements.aux) (./contents.aux) (./abstract.aux)
+(./chap1Example.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+Package biblatex Info: No input encoding detected.
+(biblatex)             Assuming 'ascii'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'ascii'.
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' not found.
+
+No file main.bbl.
+Package biblatex Info: Reference section=0 on input line 75.
+Package biblatex Info: Reference segment=0 on input line 75.
+\openout2 = `title.aux'.
+
+(./title.tex [1
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+\openout2 = `acknowledgements.aux'.
+
+
+(./acknowledgements.tex) [2
+
+
+]
+\openout2 = `contents.aux'.
+
+ (./contents.tex (./main.toc<<ot1.cmap>><<oml.cmap>><<oms.cmap>>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+<<omx.cmap>>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+) [3
+
+
+
+]
+\openout2 = `abstract.aux'.
+
+ (./abstract.tex [4
+
+
+
+])
+\openout2 = `chap1Example.aux'.
+
+ (./chap1Example.tex
+Chapter 1.
+
+LaTeX Warning: Citation 'patterson:risc' on page 1 undefined on input line 29.
+
+
+LaTeX Warning: Citation 'rad83' on page 1 undefined on input line 29.
+
+
+Overfull \hbox (21.76582pt too wide) in paragraph at lines 27--32
+\T1/cmr/m/n/12 ture to-wards low-level par-al-lelism and small, pipelin-e-able 
+in-struc-tion sets [[],
+ []
+
+[1
+
+
+
+]
+
+LaTeX Warning: Citation 'ellis:bulldog' on page 2 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'pet87' on page 2 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'coutant:precision-compilers' on page 2 undefined on in
+put line 37.
+
+
+LaTeX Warning: Citation 'gib86' on page 2 undefined on input line 41.
+
+[2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 73.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 73.
+
+
+LaTeX Warning: Reference `exponent-format' on page 3 undefined on input line 73
+.
+
+
+LaTeX Warning: Reference `mantissa-format' on page 3 undefined on input line 73
+.
+
+
+LaTeX Warning: Reference `unnorm-math' on page 3 undefined on input line 74.
+
+
+LaTeX Warning: Citation 'thornton:cdc6600' on page 3 undefined on input line 89
+.
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 89.
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+) [3]
+
+LaTeX Warning: Reference `opt:be' on page 4 undefined on input line 128.
+
+[4]
+
+LaTeX Warning: Reference `range-tracking' on page 5 undefined on input line 157
+.
+
+[5] [6]
+
+LaTeX Warning: Citation 'magenheimer:precision' on page 7 undefined on input li
+ne 201.
+
+
+Overfull \hbox (74.20547pt too wide) in paragraph at lines 194--202
+\T1/cmr/m/n/12 Similar com-bi-na-tions can be found for al-most all of the smal
+ler in-te-gers[]. [[]] 
+ []
+
+
+LaTeX Warning: Citation 'byte:i860' on page 7 undefined on input line 211.
+
+[7]
+
+LaTeX Warning: Citation 'ellis:bulldog' on page 8 undefined on input line 224.
+
+
+LaTeX Warning: Citation 'colwell:vliw' on page 8 undefined on input line 224.
+
+[8]
+
+LaTeX Warning: Citation 'gib86' on page 9 undefined on input line 245.
+
+) [9]
+
+LaTeX Warning: Empty bibliography on input line 91.
+
+(./main.aux (./title.aux) (./acknowledgements.aux) (./contents.aux)
+(./abstract.aux) (./chap1Example.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6657 strings out of 494953
+ 113428 string characters out of 6180978
+ 506248 words of memory out of 5000000
+ 9821 multiletter control sequences out of 15000+600000
+ 17387 words of font info for 38 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 44i,8n,32p,822b,831s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/noah/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1200.600pk> </home/no
+ah/.texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk> </home/noah/.texmf-va
+r/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/noah/.texmf-var/fonts/pk/l
+jfour/jknappen/ec/ecrm1000.600pk> </home/noah/.texmf-var/fonts/pk/ljfour/jknapp
+en/ec/ecrm0700.600pk> </home/noah/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm08
+00.600pk> </home/noah/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </
+home/noah/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/noah/.t
+exmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2488.600pk> </home/noah/.texmf-var/fon
+ts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/noah/.texmf-var/fonts/pk/ljfour
+/jknappen/ec/ecrm1728.600pk> </home/noah/.texmf-var/fonts/pk/ljfour/jknappen/ec
+/ecrm1440.600pk> </home/noah/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.60
+0pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (13 pages, 188863 bytes).
+PDF statistics:
+ 470 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
